@@ -1,0 +1,115 @@
+teljes {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  width: 1200px;
+  height: 3000px;
+  border-top: solid black 3px;
+}
+
+top {
+  display: flex;
+}
+
+#image {
+  width: 1200px;
+  height: 350px;
+  background-image: url("https://raw.githubusercontent.com/green-fox-academy/myfirstapp-syllabus/master/assets/first-website-header.png");
+  background-size: 1110px;
+}
+
+#mynameis {
+  position: relative;
+  bottom: -150px;
+  right: -200px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+#name {
+  position: relative;
+  right: -200px;
+  bottom: -150px;
+  font-family: 'Abril Fatface', cursive;
+  color: #222;
+}
+
+#egy {
+  margin-right: 500px;
+  padding-left: 200px;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.listegy {
+  margin-left: 178px;
+  list-style-type: square;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+  margin-top: 30px;
+}
+
+dobozegy {
+  display: flex;
+}
+
+.dobozegy {
+  width: 720px;
+  height: 150px;
+  background: #222;
+  margin-left: 180px;
+}
+
+.idezojel {
+  position: relative;
+  left: -1000px;
+  top: -20px;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+
+#idezet {
+  position: relative;
+  left: -570px;
+  bottom: -20px;
+  font-family: 'Abril Fatface', cursive;
+  color: white;
+}
+
+.cim {
+  margin-left: 220px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+}
+
+.alszovegegy {
+  margin-left: 220px;
+  margin-right: 300px;
+}
+
+.ketto {
+  margin-left: 220px;
+  margin-right: 200px;
+  font-family: 'Merriweather', serif;
+  font-size: 15px;
+}
+
+.idezojelketto {
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.idezetketto {
+  color: white;
+}
+
+#sav {
+  width: 800px;
+  height: 5px;
+  background: #222;
+  margin-left: 200px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
